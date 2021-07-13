@@ -1,7 +1,7 @@
-'use strict';
+'use strict'
 
-module.exports = test;
+module.exports = test22
 
-function test() {
-    // TODO
+function test22() {
+  // TODO
 }
